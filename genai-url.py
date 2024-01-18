@@ -2,7 +2,7 @@ import json
 from urllib.parse import parse_qs
 
 # Replace 'YOUR_OPENAI_API_KEY' with your actual OpenAI API key
-openai_api_key = "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"
+openai_api_key = ""
 
 def run_chatbot(user_query):
     headers = {
